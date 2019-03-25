@@ -27,13 +27,15 @@ namespace BannerFlowDemo.Controllers
         [HttpGet("{id}")]
         public Banner Get(int id)
         {
+            //check if null, return 404
             return _bannerService.GetById(id);
         }
 
         [HttpGet("{id}/Render")]
         public ContentResult Render(int id)
         {
-            var html = _bannerService.GetById(id).Html;
+            //null should return 404
+            var html = _bannerService.GetById(id)?.Html;
             return new ContentResult()
             {
                 ContentType = "text/html",

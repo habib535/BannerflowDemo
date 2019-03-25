@@ -33,14 +33,20 @@ namespace BannerFlowDemo.Application.Services
         public async Task UpdateBanner(int id, Banner banner)
         {
             var existingBanner = _bannerRepository.FindById(id);
-            existingBanner.Html = banner.Html;
-            await _bannerRepository.Update(existingBanner);
+            if (existingBanner != null)
+            {
+                existingBanner.Html = banner.Html;
+                await _bannerRepository.Update(existingBanner);
+            }
         }
 
         public async Task RemoveBanner(int id)
         {
             var existingBanner = _bannerRepository.FindById(id);
-            await _bannerRepository.Delete(existingBanner);
+            if (existingBanner != null)
+            {
+                await _bannerRepository.Delete(existingBanner);
+            }
         }
 
         #region seed test data
