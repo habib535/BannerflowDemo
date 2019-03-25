@@ -1,0 +1,13 @@
+D:\workspace\BannerFlowDemo\BannerFlowDemo\bin\Debug\netcoreapp2.2\BannerFlowDemo.deps.json
+D:\workspace\BannerFlowDemo\BannerFlowDemo\bin\Debug\netcoreapp2.2\BannerFlowDemo.runtimeconfig.json
+D:\workspace\BannerFlowDemo\BannerFlowDemo\bin\Debug\netcoreapp2.2\BannerFlowDemo.runtimeconfig.dev.json
+D:\workspace\BannerFlowDemo\BannerFlowDemo\bin\Debug\netcoreapp2.2\BannerFlowDemo.dll
+D:\workspace\BannerFlowDemo\BannerFlowDemo\obj\Debug\netcoreapp2.2\BannerFlowDemo.csproj.CoreCompileInputs.cache
+D:\workspace\BannerFlowDemo\BannerFlowDemo\obj\Debug\netcoreapp2.2\BannerFlowDemo.RazorAssemblyInfo.cache
+D:\workspace\BannerFlowDemo\BannerFlowDemo\obj\Debug\netcoreapp2.2\BannerFlowDemo.RazorAssemblyInfo.cs
+D:\workspace\BannerFlowDemo\BannerFlowDemo\obj\Debug\netcoreapp2.2\BannerFlowDemo.AssemblyInfoInputs.cache
+D:\workspace\BannerFlowDemo\BannerFlowDemo\obj\Debug\netcoreapp2.2\BannerFlowDemo.AssemblyInfo.cs
+D:\workspace\BannerFlowDemo\BannerFlowDemo\obj\Debug\netcoreapp2.2\BannerFlowDemo.RazorTargetAssemblyInfo.cache
+D:\workspace\BannerFlowDemo\BannerFlowDemo\bin\Debug\netcoreapp2.2\BannerFlowDemo.pdb
+D:\workspace\BannerFlowDemo\BannerFlowDemo\obj\Debug\netcoreapp2.2\BannerFlowDemo.dll
+D:\workspace\BannerFlowDemo\BannerFlowDemo\obj\Debug\netcoreapp2.2\BannerFlowDemo.pdb
